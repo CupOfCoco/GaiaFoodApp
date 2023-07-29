@@ -561,7 +561,7 @@ a{
     }
    
 }
-@media only screen and (max-width:698px) {
+@media (max-width:698px) {
     body{
         font-size: small;
     }
@@ -624,7 +624,7 @@ a{
     } 
 }
 
-@media only screen and (max-width:450px) {
+@media (max-width:450px) {
     html{
         font-size: 50%;
     }
